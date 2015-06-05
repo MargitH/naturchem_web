@@ -1,0 +1,187 @@
+body {
+  padding-bottom: 40px;
+  color: #333;
+    background-color:  #EEE;
+    font-size: 1.3em;
+}
+
+
+.naturchem div.content {
+    padding-top: 160px;
+    border-left: 1px solid #000080;
+    border-right: 1px solid #000080;
+    border-bottom: 1px solid #000080;
+    background-color: white;
+}
+
+.naturchem-header h2 {
+    margin-top: 0px;
+}
+
+div.marketing {
+  padding: 20px 15px;
+}
+
+span.blue {
+    color: blue;
+}
+
+span.right {
+    text-align: right;
+}
+}
+.icons {
+    text-align: right;
+}
+.naturchem h1.center {text-align: center;}
+
+h4 {color: #000080}
+
+.naturchem-header {
+    margin-bottom: 10px;
+    vertical-align: bottom;
+}
+
+.vcenter div {
+    vertical-align: middle;
+    margin-top: 50px;
+    
+}
+
+.container {
+    width: 800px;
+}
+
+.padding1 {
+    padding-top: 20px;
+    padding-right: 40px;
+}
+
+.modre {
+    color: #000080}
+
+.jumbotron  {
+    padding: 2px;
+    margin-top: 5px;
+    width: 300px;
+}
+
+.naturchem h1, .naturchem h2, .naturchem h3, .naturchem h4 {
+    margin-bottom: 5px;
+    color: #000080;
+    /* border-bottom: 1px solid #000080; */
+    text-align: left;
+}
+
+
+.naturchem h1 {
+    font-size: 1.6em;
+}
+
+.naturchem h2 {
+    font-size: 1.6em;   
+}
+
+.naturchem h3 {
+    font-size: 1.6em;   
+}
+
+.naturchem h4 {
+    font-size: 1.4em;   
+}
+
+/*.naturchem h3, .naturchem h4 {
+    border: 0px;   
+}*/
+
+.naturchem div.navbar {
+    background-color: #000080;
+    border: 0px;
+}
+
+.naturchem .navbar .nav > li > a {
+    border-top: 1px solid #000080;   
+    border-bottom: 1px solid #000080;
+    color: white;
+}
+
+/*.naturchem .navbar li.active a, .nav .open>a {
+    background-color: white;
+    color: #000080;
+}*/
+
+.naturchem .navbar .nav a:hover,
+.naturchem .navbar .nav a:focus{
+    background-color: white;
+    color: #000080;
+}
+
+.naturchem .dropdown-menu {      
+    border-top: 1px solid #000080;  
+    border-left: 1px solid #000080;
+    border-right: 1px solid #000080;
+    border-bottom: 1px solid #000080;        
+    background-color: white;    
+}
+
+.naturchem .navbar .nav .dropdown-menu > li > a {  
+    background-color: white;
+    color: #000080;
+}
+
+.naturchem .navbar .nav .dropdown-menu > li > a:hover {  
+    background-color: #000080;
+    color: white;
+}
+
+.naturchem .dropdown-menu li:hover {
+    background-color: #000080;
+    color: white;
+}
+
+.naturchem .carousel-caption p {
+    color: black;
+    background-color: white;
+}
+
+
+.nav-pills>li>a {
+    color: #333;   
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+    background-color: #333;
+    color: white;
+}
+
+.naturchem .carousel h1 {
+    color: black;
+    background-color: white;
+    border: 0px;
+    text-align: center;
+    font-size: 2.3em;
+}
+
+.naturchem a.black{
+    color: black; 
+    background-color: white;
+    } 
+
+.naturchem a {
+    color: #000080;
+}
+
+#sidebar ul {
+    background-color: #eee;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+#sidebar ul li:hover a {
+    text-decoration: underline;
+}
+
+
+.sidebar-content {
+    padding-bottom: 10px;   
+}
